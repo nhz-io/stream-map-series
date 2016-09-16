@@ -1,0 +1,30 @@
+{
+  "name": "stream-map-series",
+  "version": "1.0.0",
+  "description": "Map list in series asynchronously",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhz-io/stream-map-series.git"
+  },
+  "keywords": [
+    "stream-map-series",
+    "map-series",
+    "map-series-async",
+    "stream",
+    "async-series",
+    "nhz.io"
+  ],
+  "author": "Ishi Ruy <dev@nhz.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhz-io/stream-map-series/issues"
+  },
+  "homepage": "https://github.com/nhz-io/stream-map-series",
+  "dependencies": {
+    "event-stream": "^3.3.4"
+  }
+}
